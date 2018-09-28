@@ -83,29 +83,26 @@ post_date: 2018-09-11 15:40:58
             background: linear-gradient(to bottom, #b31217, #e52d27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         }
     </style>
-
-
-    <div style="text-align:center;font-family:Arial;font-weight:bolder;font-size:45px">Current Weather Conditions in Melbourne CBD</div>
-    <div class="container" >
+    <div class="container" style="width:100%">
 
         <div style="height:auto">
             <div class="col-lg-4">
                 <div class="row" style="text-align:center;padding-top:50px">
-                    <div class="col-sm-1" style="width:40%;text-align:center">
+                    <div class="col-md-6" style="text-align:center;border:dashed">
                         <img src="https://farm2.staticflickr.com/1970/31086594348_aee6f546be_m.jpg" style="height:150px;width:150px" />
                     </div>
-                    <div class="col-sm-1" style="width:60%;text-align:center">
-                        <div class="row" style="padding-top:15px;font-family:Arial;text-align:center;font-weight:bolder;font-size:40px"> UV Index </div>
-                        <div id="uvIndex" class="row" style="font-family:Arial;text-align:center;font-weight:bolder;font-size:40px"> Fetching..... </div>
+                    <div class="col-sm-1" style="text-align:center">
+                        <div class="row" style="padding-top:15px;font-family:Arial;text-align:center;font-weight:bolder;font-size:35px"> UV Index </div>
+                        <div id="uvIndex" class="row" style="font-family:Arial;text-align:center;font-weight:bolder;font-size:35px"> Fetching..... </div>
                     </div>
                 </div>
                 <div class="row" style="text-align:center">
-                    <div class="col-sm-1" style="width:40%;text-align:center">
+                    <div class="col-md-6" style="text-align:center;border:dashed">
                         <img src="https://farm2.staticflickr.com/1924/43147124940_e5e7338912_o.png" style="height:150px;width:150px" />
                     </div>
-                    <div class="col-sm-1" style="width:60%;text-align:center">
-                        <div class="row" style="padding-top:15px;font-family:Arial;text-align:center;font-weight:bolder;font-size:40px"> Temperature </div>
-                        <div id="temperature" class="row" style="font-family:Arial;text-align:center;font-weight:bolder;font-size:40px"> Fetching..... </div>
+                    <div class="col-sm-1" style="text-align:center">
+                        <div class="row" style="padding-top:15px;font-family:Arial;text-align:center;font-weight:bolder;font-size:35px"> Temperature </div>
+                        <div id="temperature" class="row" style="font-family:Arial;text-align:center;font-weight:bolder;font-size:35px"> Fetching..... </div>
                     </div>
                 </div>
             </div>
