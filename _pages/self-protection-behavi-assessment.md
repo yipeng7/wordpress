@@ -1,6 +1,6 @@
 ---
 ID: 1002
-post_title: Self-protection Behavi Assessment
+post_title: Self-protection Behavior Assessment
 author: Yipeng Li
 post_excerpt: ""
 layout: page
