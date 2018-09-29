@@ -81,7 +81,7 @@ post_date: 2018-09-29 11:18:39
                     <label>
                          &#x2705;Water Bottle
                     </label>
-        <button onclick="newTip()">Do U Know ?</button>
+        <button onclick="newTip()">Cick here to get a fact on UV Cancer</button>
         &nbsp;
     &nbsp;
         <p style="font-family:Arial;font-size:15px">Powered By:</p>
