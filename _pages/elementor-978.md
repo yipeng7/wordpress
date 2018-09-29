@@ -16,7 +16,7 @@ post_date: 2018-09-29 11:18:39
 </head>
 <style>
 /* The container */
-.container {
+.cont {
     display: block;
     position: relative;
     padding-left: 35px;
@@ -29,7 +29,7 @@ post_date: 2018-09-29 11:18:39
     user-select: none;
 }
 /* Hide the browser's default checkbox */
-.container input {
+.cont input {
     position: absolute;
     opacity: 0;
     cursor: pointer;
@@ -44,11 +44,11 @@ post_date: 2018-09-29 11:18:39
     background-color: #eee;
 }
 /* On mouse-over, add a grey background color */
-.container:hover input ~ .checkmark {
+.cont:hover input ~ .checkmark {
     background-color: #ccc;
 }
 /* When the checkbox is checked, add a blue background */
-.container input:checked ~ .checkmark {
+.cont input:checked ~ .checkmark {
     background-color: #2196F3;
 }
 /* Create the checkmark/indicator (hidden when not checked) */
@@ -58,11 +58,11 @@ post_date: 2018-09-29 11:18:39
     display: none;
 }
 /* Show the checkmark when checked */
-.container input:checked ~ .checkmark:after {
+.cont input:checked ~ .checkmark:after {
     display: block;
 }
 /* Style the checkmark/indicator */
-.container .checkmark:after {
+.cont .checkmark:after {
     left: 9px;
     top: 5px;
     width: 5px;
