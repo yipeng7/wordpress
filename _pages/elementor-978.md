@@ -77,13 +77,13 @@ post_date: 2018-09-29 11:18:39
   <input type="checkbox" checked="checked">
 </label>
 <label>Two
-  <input type="checkbox">
+  <input type="checkbox" checked="checked">
 </label>
 <label>Three
-  <input type="checkbox">
+  <input type="checkbox" checked="checked">
 </label>
 <label>Four
-  <input type="checkbox">
+  <input type="checkbox" checked="checked">
 </label>
 </body>
 </html>
