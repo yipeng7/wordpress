@@ -81,5 +81,10 @@ post_date: 2018-09-29 11:18:39
                     <label>
                          &#x2705;Water Bottle
                     </label>
+&nbsp;
+    &nbsp;
+        <p style="font-family:Arial;font-size:15px">Powered By:</p>
+        <a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
+        <a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a>
 </body>
 </html>
