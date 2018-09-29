@@ -56,7 +56,6 @@ post_date: 2018-09-29 11:18:39
             user-select: none;
         }
     </style>
-Current Weather Conditions in Melbourne CBD
                         <img src="https://farm2.staticflickr.com/1970/31086594348_aee6f546be_m.jpg" style="height:100px;width:100px" />
                          UV Index 
                          Fetching..... 
