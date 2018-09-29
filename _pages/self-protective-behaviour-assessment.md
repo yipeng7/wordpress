@@ -10,3 +10,5 @@ published: true
 post_date: 2018-09-29 13:14:29
 ---
 [qsm quiz=1]
+[qsm quiz=2]
+[qsm quiz=3]
