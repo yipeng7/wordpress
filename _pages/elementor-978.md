@@ -11,6 +11,9 @@ post_date: 2018-09-29 11:18:39
 <!-- wp:fl-builder/layout /-->		
 			<!DOCTYPE html>
 <html>
+    <head>
+    <meta charset="utf-8" />
+</head>
 <style>
 /* The container */
 .container {
