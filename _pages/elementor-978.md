@@ -34,7 +34,7 @@ post_date: 2018-09-29 11:18:39
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            font-size: 25px;
+            font-size: 20px;
             margin: 4px 2px;
             cursor: pointer;
             -webkit-transition-duration: 0.4s; /* Safari */
@@ -81,10 +81,12 @@ post_date: 2018-09-29 11:18:39
                     <label>
                          &#x2705;Water Bottle
                     </label>
-&nbsp;
+        <button onclick="newTip()">Do U Know ?</button>
+        &nbsp;
     &nbsp;
         <p style="font-family:Arial;font-size:15px">Powered By:</p>
-        <a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
-        <a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a>
+        <p><a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
+</p>
+                <p style="position:relative;top:-30px"><a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a></p>
 </body>
 </html>
