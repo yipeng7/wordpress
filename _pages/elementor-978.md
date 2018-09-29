@@ -35,7 +35,7 @@ post_date: 2018-09-29 11:18:39
     cursor: pointer;
 }
 /* Create a custom checkbox */
-.checkmark {
+.check {
     position: absolute;
     top: 0;
     left: 0;
@@ -44,25 +44,25 @@ post_date: 2018-09-29 11:18:39
     background-color: #eee;
 }
 /* On mouse-over, add a grey background color */
-.cont:hover input ~ .checkmark {
+.cont:hover input ~ .check {
     background-color: #ccc;
 }
 /* When the checkbox is checked, add a blue background */
-.cont input:checked ~ .checkmark {
+.cont input:checked ~ .check {
     background-color: #2196F3;
 }
 /* Create the checkmark/indicator (hidden when not checked) */
-.checkmark:after {
+.check:after {
     content: "";
     position: absolute;
     display: none;
 }
 /* Show the checkmark when checked */
-.cont input:checked ~ .checkmark:after {
+.cont input:checked ~ .check:after {
     display: block;
 }
 /* Style the checkmark/indicator */
-.cont .checkmark:after {
+.cont .check:after {
     left: 9px;
     top: 5px;
     width: 5px;
