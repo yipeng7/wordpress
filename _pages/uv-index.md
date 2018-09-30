@@ -61,31 +61,119 @@ post_date: 2018-09-11 15:40:58
                         <img src="https://farm2.staticflickr.com/1924/43147124940_e5e7338912_o.png" style="height:100px;width:100px" />
                          Temperature 
                          Fetching..... 
-        <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 0 - 2</h1>
-                <p style="text-align: center;">Danger Category : LOW</p>
-                <img src="https://farm2.staticflickr.com/1940/43165946350_8d278d7d94.jpg" style="width:auto" />
-                <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
-                <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px">60 Minutes</p>
-                    <!--<button id="start">start</button>
-                 <button id="stop">stop</button>
-                  <button id="clear">clear</button>-->
-                <p style="text-align: center;">Outdoor Checklist</p>
-                    <label>
-                         &#x2705;Sunscreen SPF 30 - 50
-                    </label>
-                    <label>
-                         &#x2705;Sunglasses
+            <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 0 - 2</h1>
+                    <p style="text-align: center;">Danger Category : LOW</p>
+                    <img src="https://farm2.staticflickr.com/1940/43165946350_8d278d7d94.jpg" style="width:auto" />
+                    <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
+                    <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px">60 Minutes</p>
+                    <p style="text-align: center;">Outdoor Checklist</p>
+                        <label>
+                             &#x2705;Sunscreen SPF 30 - 50
                         </label>
-                    <label>
-                         &#x2705;Water Bottle
-                    </label>
+                        <label>
+                             &#x2705;Sunglasses
+                        </label>
+                        <label>
+                             &#x2705;Water Bottle
+                        </label>
+            <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 3 - 5</h1>
+                    <p style="text-align: center;">Danger Category : MODERATE</p>
+                    <img src="https://farm2.staticflickr.com/1974/44929136932_23c8681626.jpg" style="width:auto" />
+                    <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
+                    <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 45 Minutes</p>
+                    <p style="text-align: center;">Outdoor Checklist</p>
+                        <label>
+                             &#x2705;Sunscreen SPF 30 - 50+
+                        </label>
+                        <label>
+                             &#x2705;Sunglasses with EPF 9
+                        </label>
+                        <label>
+                             &#x2705;Sun Hat with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Water Bottle
+                        </label>
+            <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 6 - 8</h1>
+                    <p style="text-align: center;">Danger Category : HIGH</p>
+                    <img src="https://farm2.staticflickr.com/1921/43165946150_05f94f2444.jpg" style="width:auto" />
+                    <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
+                    <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 30 Minutes</p>
+                    <p style="text-align: center;">Outdoor Checklist</p>
+                        <label>
+                             &#x2705;Sunscreen SPF 100+
+                        </label>
+                        <label>
+                             &#x2705;Sunglasses with EPF 10
+                        </label>
+                        <label>
+                             &#x2705;Sun Hat with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Water Bottle
+                        </label>
+                        <label>
+                             &#x2705;Umbrella
+                        </label>
+            <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 9 - 10</h1>
+                    <p style="text-align: center;">Danger Category : VERY HIGH</p>
+                    <img src="https://farm2.staticflickr.com/1915/30041559617_aeb4b6b70b.jpg" style="width:auto" />
+                    <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
+                    <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 20 Minutes</p>
+                    <p style="text-align: center;">Outdoor Checklist</p>
+                        <label>
+                             &#x2705;Sunscreen SPF 100+
+                        </label>
+                        <label>
+                             &#x2705;Sunglasses with EPF 10
+                        </label>
+                        <label>
+                             &#x2705;Sun Hat with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Sun protective clothing with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Water Bottle
+                        </label>
+                        <label>
+                             &#x2705;Umbrella
+                        </label>
+            <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 11+</h1>
+                    <p style="text-align: center;">Danger Category : EXTREME</p>
+                    <img src="https://farm2.staticflickr.com/1909/44066035635_2e2f812997.jpg" style="width:auto" />
+                    <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
+                    <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 10 Minutes</p>
+                    <p style="text-align: center;">Outdoor Checklist</p>
+                        <label>
+                             &#x2705;Sunscreen SPF 100+
+                        </label>
+                        <label>
+                             &#x2705;Sunglasses with EPF 10
+                        </label>
+                        <label>
+                             &#x2705;Sun Hat with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Sun protective clothing with UPF 50+
+                        </label>
+                        <label>
+                             &#x2705;Water Bottle
+                        </label>
+                        <label>
+                             &#x2705;Umbrella
+                        </label>
         <button onclick="newTip()">Cick here to get a fact on UV Cancer</button>
-        &nbsp;
+    &nbsp;
     &nbsp;
         <p style="font-family:Arial;font-size:15px">Powered By:</p>
-        <p><a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
-</p>
-                <p style="position:relative;top:-30px"><a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a></p>
-    <h1 style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;position:relative;top:-580px"><time></time></h1>
+        <p>
+            <a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
+        </p>
+        <p style="position:relative;top:-30px"><a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a></p>
+        <h1 style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;position:relative;top:-580px"><time></time></h1>
+        <!--<button id="start">start</button>
+        <button id="stop">stop</button>
+         <button id="clear">clear</button>-->
 </body>
 </html>
