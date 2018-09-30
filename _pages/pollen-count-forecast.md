@@ -18,10 +18,12 @@ post_date: 2018-09-13 03:39:26
 <body onload="getPollenCounts()">
 	<style>
         .pollenLables{
-            font-family:Arial;
+            font-family:Tahoma;
             font-size:45px;
             font-weight:bolder;
             color:black;
+            text-align: center;
+            border:dashed;
         }
         .pollenFields{
             font-family:Arial;
@@ -40,16 +42,15 @@ post_date: 2018-09-13 03:39:26
             font-size:20px;
          }
     </style>
-	<img src="https://img00.deviantart.net/047a/i/2012/222/9/8/green_gradient_by_ohsnapjenny-d5an28t.jpg" style="opacity:0.5;width:100%;height:620px" alt="backGreen" />
-	<p style="text-align:center;top:-580px;position:relative;font-size:50px;font-family:Arial;font-weight:bolder">Current Pollen conditions in Melbourne</p>
+	<p style="text-align:center;font-size:50px;font-family:Arial;font-weight:bolder">Current Pollen conditions in Melbourne</p>
 	<!--Tree Pollen Column Start-->
 	<img src="https://i.pinimg.com/originals/0d/fd/8f/0dfd8f4fb49167f674907aa8c97ba34c.png" style="height:140px;width:110px" alt="tree" />
-	 Tree
+	<p> Tree</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Tree Pollen Column End-->
 	<!--Grass Pollen Column Start-->
-	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:140px;width:190px" alt="wood"/>
+	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:140px;width:190px;text-align:center" alt="wood"/>
 	Grass
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
