@@ -105,6 +105,7 @@ post_date: 2018-09-11 15:40:58
                         <label>
                              &#x2705;Water Bottle
                         </label>
+                <strong>UV Index may not cause much harm but still can cause harm.&nbsp;Try seeking shade every 20 minutes and keep your body parts ccovered.&nbsp;Reapply Sunscreen every 2 hours.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 6 - 8</h1>
                     <p style="text-align: center;">Danger Category : HIGH</p>
                     <img src="https://farm2.staticflickr.com/1921/43165946150_05f94f2444.jpg" style="width:auto" />
@@ -127,6 +128,7 @@ post_date: 2018-09-11 15:40:58
                         <label>
                              &#x2705;Umbrella
                         </label>
+                <strong>UV rays start to act more dangerously. A sensitive skin could get a Sunburn even more faster than the above duration.Seek shade during the midday hours, reapply the Sunscreen every hour and stay hydrated.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 9 - 10</h1>
                     <p style="text-align: center;">Danger Category : VERY HIGH</p>
                     <img src="https://farm2.staticflickr.com/1915/30041559617_aeb4b6b70b.jpg" style="width:auto" />
@@ -152,6 +154,7 @@ post_date: 2018-09-11 15:40:58
                         <label>
                              &#x2705;Umbrella
                         </label>
+                <p style="border-left: 5px solid red;color:black;text-align: center;"><strong>If possible, avoid going outside during midday hours. If working outside, seek shade whenever possible. Keep a check on your Sunscreen.</strong></p>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 11+</h1>
                     <p style="text-align: center;">Danger Category : EXTREME</p>
                     <img src="https://farm2.staticflickr.com/1909/44066035635_2e2f812997.jpg" style="width:auto" />
@@ -177,6 +180,7 @@ post_date: 2018-09-11 15:40:58
                         <label>
                              &#x2705;Umbrella
                         </label>
+                <p style="border-left: 5px solid red;color:black;text-align: center;"><strong>It is highly recommended to completely avoid going under the Sub when the UV Index is Extreme. Seek shade whenever possible if staying outside. Keep all body parts covered at all times and stay hydrated.</strong></p>
         <button onclick="newTip()">Cick here to get a fact on UV Cancer</button>
     &nbsp;
     &nbsp;
