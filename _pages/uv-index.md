@@ -85,6 +85,7 @@ post_date: 2018-09-11 15:40:58
                         <label>
                              &#x2705;Water Bottle
                         </label>
+<strong>When UV Index is Low, not much protection is required. But one may have a sensitive skin and still might need protection. Take all the basic prevention measures and seek shade whenever possible after every 45 minutes.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 3 - 5</h1>
                     <p style="text-align: center;">Danger Category : MODERATE</p>
                     <img src="https://farm2.staticflickr.com/1974/44929136932_23c8681626.jpg" style="width:auto" />
