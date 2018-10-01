@@ -49,7 +49,7 @@ post_date: 2018-09-13 12:31:15
     <p id="demo"></p>
                         <input type="text" id="localtion" name="localtion" placeholder="Search Locations..." required />
                         <button type="submit" onclick="codeAddress()">Search</button>
-                        <button onclick="getLocation()" type="submit">See nearby</button>
+                        <button title="Click here for current location" onclick="getLocation()" type="submit">See nearby</button>
                 <br />
                 <br />
                 <hr>
