@@ -29,11 +29,11 @@ post_date: 2018-09-11 15:40:58
             background-color: #4CAF50; /* Green */
             border: none;
             color: white;
-            padding: 15px 32px;
+            padding: 6px 6px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            font-size: 20px;
+            font-size: 15px;
             margin: 4px 2px;
             cursor: pointer;
             -webkit-transition-duration: 0.4s; /* Safari */
@@ -88,7 +88,8 @@ post_date: 2018-09-11 15:40:58
 <strong>When UV Index is Low, not much protection is required. But one may have a sensitive skin and still might need protection. Take all the basic prevention measures and seek shade whenever possible after every 45 minutes.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 3 - 5</h1>
                     <p style="text-align: center;">Danger Category : MODERATE</p>
-                    <img src="https://farm2.staticflickr.com/1974/44929136932_23c8681626.jpg" style="width:auto" />
+                    <p style="text-align:center">
+                    <img src="https://farm2.staticflickr.com/1974/44929136932_23c8681626.jpg" style="height:150px" /></p>
                     <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
                     <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 45 Minutes</p>
                     <h1 id="timer2" style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;"><time></time></h1>
@@ -108,7 +109,8 @@ post_date: 2018-09-11 15:40:58
                 <strong>UV Index may not cause much harm but still can cause harm.&nbsp;Try seeking shade every 20 minutes and keep your body parts ccovered.&nbsp;Reapply Sunscreen every 2 hours.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 6 - 8</h1>
                     <p style="text-align: center;">Danger Category : HIGH</p>
-                    <img src="https://farm2.staticflickr.com/1921/43165946150_05f94f2444.jpg" style="width:auto" />
+                    <p style="text-align:center">
+                    <img src="https://farm2.staticflickr.com/1921/43165946150_05f94f2444.jpg" style="height:150px" /></p>
                     <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
                     <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 30 Minutes</p>
                     <h1 id="timer3" style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;"><time></time></h1>
@@ -131,7 +133,8 @@ post_date: 2018-09-11 15:40:58
                 <strong>UV rays start to act more dangerously. A sensitive skin could get a Sunburn even more faster than the above duration.Seek shade during the midday hours, reapply the Sunscreen every hour and stay hydrated.</strong>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 9 - 10</h1>
                     <p style="text-align: center;">Danger Category : VERY HIGH</p>
-                    <img src="https://farm2.staticflickr.com/1915/30041559617_aeb4b6b70b.jpg" style="width:auto" />
+                    <p style="text-align:center">
+                    <img src="https://farm2.staticflickr.com/1915/30041559617_aeb4b6b70b.jpg" style="height:150px"/></p>
                     <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
                     <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 20 Minutes</p>
                     <h1 id="timer4" style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;"><time></time></h1>
@@ -157,7 +160,8 @@ post_date: 2018-09-11 15:40:58
                 <p style="border-left: 5px solid red;color:black;text-align: center;"><strong>If possible, avoid going outside during midday hours. If working outside, seek shade whenever possible. Keep a check on your Sunscreen.</strong></p>
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 11+</h1>
                     <p style="text-align: center;">Danger Category : EXTREME</p>
-                    <img src="https://farm2.staticflickr.com/1909/44066035635_2e2f812997.jpg" style="width:auto" />
+                    <p style="text-align:center">
+                    <img src="https://farm2.staticflickr.com/1909/44066035635_2e2f812997.jpg" style="height:150px" /></p>
                     <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
                     <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px"> 10 Minutes</p>
                     <h1 id="timer5" style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;"><time></time></h1>
