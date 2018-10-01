@@ -9,10 +9,4 @@ permalink: >
 published: true
 post_date: 2018-09-16 18:37:44
 ---
-[wpgmza id="3"]
-<a href="public-toilets" role="button">
-Public Toilets
-</a>
-<a href="restaurants" role="button">
-Restaurants
-</a>
+<p style="text-align: center;">Markers to all Water Fountains in Melbourne CBD</strong></p>[wpgmza id="3"]
