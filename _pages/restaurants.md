@@ -8,7 +8,8 @@ permalink: https://safeworkmel.com/restaurants/
 published: true
 post_date: 2018-09-13 12:31:15
 ---
-<!DOCTYPE html>
+<p style="text-align: center;">Eating places in proximity of current location. Search for a specific location</p>		
+			<!DOCTYPE html>
 <html lang="en">
 <head>
     <style>
@@ -48,13 +49,9 @@ post_date: 2018-09-13 12:31:15
     <p id="demo"></p>
                         <input type="text" id="localtion" name="localtion" placeholder="Search Locations..." required />
                         <button type="submit" onclick="codeAddress()">Search</button>
-                        <button onclick="getLocation()" type="submit" >See nearby</button>
+                        <button onclick="getLocation()" type="submit">See nearby</button>
+                <br />
+                <br />
                 <hr>
 </body>
-</html>		
-			<a href="public-toilets" role="button">
-						Public Toilets
-					</a>
-			<a href="drinking-fountains" role="button">
-						Drinking Fountain
-					</a>
+</html>
