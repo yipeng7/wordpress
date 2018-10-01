@@ -19,7 +19,7 @@ post_date: 2018-09-08 16:54:35
  	<li>Climate of Australia</li>
  	<li>Lighter skin which is sensitive to harsh UV conditions</li>
 </ul>
-<strong> </strong>
+<strong>&nbsp;</strong>
 
 <strong>When you should see a doctor to prevent, diagnose or treat skin cancer?</strong>
 
