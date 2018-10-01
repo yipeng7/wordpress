@@ -19,62 +19,58 @@ post_date: 2018-09-13 03:39:26
 	<style>
         .pollenLables{
             font-family:Tahoma;
-            font-size:45px;
+            font-size:30px;
             font-weight:bolder;
             color:black;
             text-align: center;
             border:dashed;
         }
         .pollenFields{
-            font-family:Arial;
-            font-size:20px;
+            font-family:Tahoma;
+            color:navy;
+            font-size:15px;
             font-weight:bold;
-            text-align:center;
             color:black;
-        }
-        .categoryPosition{
-            position:relative;
-            top:-10px;
         }
         .pollenValues{
             padding-left:50px;
-            color:gray;
-            font-size:20px;
+            color:navy;
+            font-size:15px;
          }
     </style>
-	<p style="text-align:center;font-size:50px;font-family:Arial;font-weight:bolder">Current Pollen conditions in Melbourne</p>
+	<p style="text-align:center;font-size:30px;font-family:Tahoma;color:black;font-weight:bolder">Current Pollen conditions in Melbourne</p>
 	<!--Tree Pollen Column Start-->
-	<img src="https://i.pinimg.com/originals/0d/fd/8f/0dfd8f4fb49167f674907aa8c97ba34c.png" style="height:140px;width:110px" alt="tree" />
+	<img src="https://i.pinimg.com/originals/0d/fd/8f/0dfd8f4fb49167f674907aa8c97ba34c.png" style="height:100px" alt="tree" />
 	<p> Tree</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Tree Pollen Column End-->
 	<!--Grass Pollen Column Start-->
-	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:140px;width:190px;text-align:center" alt="wood"/>
+	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:100px;text-align:center" alt="wood"/>
 	Grass
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Grass Pollen Column End-->
 	<!--Mold Pollen Column Start-->
-	<img src="https://static.wixstatic.com/media/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.png/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.webp" style="height:140px;width:140px" alt="mold"/>
+	<img src="https://static.wixstatic.com/media/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.png/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.webp" style="height:100px;" alt="mold"/>
 	Mold
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Mold Pollen Column Start-->
 	<!--Ragweed Pollen Column Start-->
-	<img src="https://openclipart.org/image/2400px/svg_to_png/274424/GiantRagweed.png" style="height:140px;width:140px" alt="ragweed" />
+	<img src="https://openclipart.org/image/2400px/svg_to_png/274424/GiantRagweed.png" style="height:100px;" alt="ragweed" />
 	Ragweed  
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Ragweed Pollen Column Start-->
 	<!--Air Quality Start-->
 	Overall Air Quality
-	<img src="https://mbtskoudsalg.com/images/air-clipart-transparent-background-wind-7.png" style="height:140px;width:140px" alt="air"/>
+	<img src="https://mbtskoudsalg.com/images/air-clipart-transparent-background-wind-7.png" style="height:100px;" alt="air"/>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Air Quality End-->
 	<!--Level Category Description-->
-	<pre><strong>Level :</strong>&nbsp;Value associated with the category. These values range from 1 to 6, with 1 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong>Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous)</pre>        
+	<pre><strong>Level :</strong>&nbsp;Value associated with the category. These values range from 1 to 6, with 1 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong>Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous</pre>        
 	<!--Level Category Description-->
 	<!--Accuweather Logo-->
 	<p style="text-align: center;"><strong>Powered by</strong></p>
