@@ -9,6 +9,7 @@ published: true
 post_date: 2018-09-07 22:10:43
 ---
 <p>&nbsp;</p>
+
 <!-- wp:paragraph -->
 <h2><strong>UV INFORMATION</strong></h2>
 <p>UV rays, coming from the sun, are one of the major causes of skin cancer. UV rays damage the DNA of genes responsible for moderating the cell growth. This damage results in skin cancer.</p>
@@ -28,26 +29,53 @@ post_date: 2018-09-07 22:10:43
 <li>get sun burnt frequently</li>
 <li>like to get tanned by sitting in sunlight for long hours</li>
 </ul>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph -->
+
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><!-- wp:separator --></p>
+<p></p>
+
+<!-- wp:separator -->
+</p>
 <hr />
-<p><!-- /wp:separator --></p>
+<p>
+<!-- /wp:separator -->
+
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><!-- wp:paragraph --></p>
+<p></p>
+
+<!-- wp:paragraph -->
+</p>
 <p>Reference: Cancer.org. (2018). What Is Ultraviolet (UV) Radiation?</p>
 <p>https://www.cancer.org/cancer/skin-cancer/prevention-and-early-detection/what-is-uv-radiation.html</p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph -->
+
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><!-- wp:heading {"level":4} --></p>
+<p></p>
+
+<!-- wp:heading {"level":4} -->
+</p>
 <h4>For more information, you can visit:</h4>
-<p><!-- /wp:heading --></p>
+<p>
+<!-- /wp:heading -->
+
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><!-- wp:paragraph --></p>
+<p></p>
+
+<!-- wp:paragraph -->
+</p>
 <p><a href="https://www.cancer.org/cancer/cancer-causes/radiation-exposure/uv-radiation.html" target="_blank" rel="noopener">American Cancer Society</a><br /><a href="https://www.cancer.org.au/preventing-cancer/workplace-cancer/uv-radiation.html" target="_blank" rel="noopener">Cancer Council Australia</a></p>
-<p><!-- /wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph -->
+
+<p></p>
 <p>&nbsp;</p>
