@@ -62,10 +62,21 @@ https://code.jquery.com/jquery-3.3.1.min.js -->
   <!--      -->
 					<!--form action="#contact" method="post"-->
                             <input type="text" id="localtion" name="localtion" placeholder="Search Locations..." required/>
+                       <!---->
+<!---->
                             <button type="submit" onclick="codeAddress()">Search</button>
                     <!---->
 					<!--/form-->
         <hr>
+        <!-- Footer -->
+        <!--<footer>-->
+        <!--    -->
+        <!--        <p>Copyright &copy;-->
+        <!--            2018 T-Watch Ltd.  | Designer: <a href="">Yipeng Li</a> -->
+        <!--        </p>-->
+        <!--    -->
+        <!--</footer>-->
+    <!-- .container -->
 </body>
 </html>		
 			<a href="public-toilets" role="button">
