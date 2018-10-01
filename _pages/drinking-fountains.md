@@ -1,6 +1,6 @@
 ---
 ID: 851
-post_title: Drinking Fountains
+post_title: Water Fountains
 author: Yipeng Li
 post_excerpt: ""
 layout: page
@@ -9,10 +9,10 @@ permalink: >
 published: true
 post_date: 2018-09-16 18:37:44
 ---
-[wpgmza id="3"]		
-			<a href="public-toilets" role="button">
-						Public Toilets
-					</a>
-			<a href="restaurants" role="button">
-						Restaurants
-					</a>
+[wpgmza id="3"]
+<a href="public-toilets" role="button">
+Public Toilets
+</a>
+<a href="restaurants" role="button">
+Restaurants
+</a>
