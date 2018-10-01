@@ -45,20 +45,20 @@ post_date: 2018-09-13 03:39:26
 	<p>CategoryFetching..</p>
 	<!--Tree Pollen Column End-->
 	<!--Grass Pollen Column Start-->
-	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:100px;text-align:center" alt="wood"/>
-	Grass
+	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:100px" alt="wood"/>
+	<p >Grass</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Grass Pollen Column End-->
 	<!--Mold Pollen Column Start-->
 	<img src="https://static.wixstatic.com/media/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.png/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.webp" style="height:100px;" alt="mold"/>
-	Mold
+	<p >Mold</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Mold Pollen Column Start-->
 	<!--Ragweed Pollen Column Start-->
 	<img src="https://openclipart.org/image/2400px/svg_to_png/274424/GiantRagweed.png" style="height:100px;" alt="ragweed" />
-	Ragweed  
+	<p>Ragweed  </p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Ragweed Pollen Column Start-->
