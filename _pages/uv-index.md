@@ -68,7 +68,7 @@ post_date: 2018-09-11 15:40:58
                          Fetching..... 
             <h1 style="font-family:Arial;color:black;font-weight:900;font-size:30px;text-align:center">UV Index 0 - 2</h1>
                     <p style="text-align: center;">Danger Category : LOW</p>
-                    <img src="https://farm2.staticflickr.com/1940/43165946350_8d278d7d94.jpg" style="height:200px" />
+                    <p style="text-align:center"><img src="https://farm2.staticflickr.com/1940/43165946350_8d278d7d94.jpg" style="height:150px;" /></p>
                     <p style="font-family: tahoma; font-size: 18pt;color:black;font-weight:bolder;text-align:center">Time to Sunburn</p>
                     <p style="font-family:Tahoma;font-size:40px;text-align:center;font-weight:bolder;color:black;padding-top:40px">60 Minutes</p>
                         <h1 id="timer1" style="font-family:Tahoma;font-size:50px;text-align:center;font-weight:bolder;"><time></time></h1>
