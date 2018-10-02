@@ -21,19 +21,19 @@ post_date: 2018-09-13 03:39:26
             font-family:Tahoma;
             font-size:30px;
             font-weight:bolder;
-            color:;
+            color:grey;
             text-align: center;
         }
         .pollenFields{
             font-family:Tahoma;
-            color:royalblue;
+            color:;
             font-size:15px;
             font-weight:bold;
             color:black;
         }
         .pollenValues{
             padding-left:50px;
-            color:navy;
+            color:seagreen;
             font-size:15px;
          }
     </style>
