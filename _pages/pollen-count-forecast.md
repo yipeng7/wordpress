@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-09-13 03:39:26
 ---
-<!Doctype html>
+<p style="text-align:center;font-size:30px;font-family:Tahoma;color:grey;font-weight:bolder">Current Pollen conditions in Melbourne</p>		
+			<!Doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
@@ -37,7 +38,6 @@ post_date: 2018-09-13 03:39:26
             font-size:15px;
          }
     </style>
-	<p style="text-align:center;font-size:30px;font-family:Tahoma;color:grey;font-weight:bolder">Current Pollen conditions in Melbourne</p>
 	<!--Tree Pollen Column Start-->
 	<img src="https://farm2.staticflickr.com/1943/44323635144_a3de43986c_m.jpg" style="height:100px" alt="tree" />
 	<p> Tree</p>
