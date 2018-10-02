@@ -21,7 +21,7 @@ post_date: 2018-09-13 03:39:26
             font-family:Tahoma;
             font-size:30px;
             font-weight:bolder;
-            color:black;
+            color:;
             text-align: center;
         }
         .pollenFields{
@@ -39,25 +39,25 @@ post_date: 2018-09-13 03:39:26
     </style>
 	<p style="text-align:center;font-size:30px;font-family:Tahoma;color:grey;font-weight:bolder">Current Pollen conditions in Melbourne</p>
 	<!--Tree Pollen Column Start-->
-	<img src="https://i.pinimg.com/originals/0d/fd/8f/0dfd8f4fb49167f674907aa8c97ba34c.png" style="height:100px" alt="tree" />
+	<img src="https://farm2.staticflickr.com/1943/44323635144_a3de43986c_m.jpg" style="height:100px" alt="tree" />
 	<p> Tree</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Tree Pollen Column End-->
 	<!--Grass Pollen Column Start-->
-	<img src="http://www.clker.com/cliparts/n/3/s/i/6/6/green-grass-md.png" style="height:100px" alt="wood"/>
+	<img src="https://farm2.staticflickr.com/1914/30107507457_6c6ae99b20_m.jpg" style="height:100px" alt="wood"/>
 	<p >Grass</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Grass Pollen Column End-->
 	<!--Mold Pollen Column Start-->
-	<img src="https://static.wixstatic.com/media/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.png/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/f108b3_a74dd059b9c44de2b52ba842e944a6ac~mv2.webp" style="height:100px;" alt="mold"/>
+	<img src="https://farm2.staticflickr.com/1907/44131936815_009dc4b432_m.jpg" style="height:100px;" alt="mold"/>
 	<p >Mold</p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Mold Pollen Column Start-->
 	<!--Ragweed Pollen Column Start-->
-	<img src="https://openclipart.org/image/2400px/svg_to_png/274424/GiantRagweed.png" style="height:100px;" alt="ragweed" />
+	<img src="https://farm2.staticflickr.com/1967/43231752300_393d28bf09_m.jpg" style="height:100px;" alt="ragweed" />
 	<p>Ragweed  </p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
