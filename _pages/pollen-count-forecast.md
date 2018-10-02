@@ -69,7 +69,7 @@ post_date: 2018-09-13 03:39:26
 	<p>CategoryFetching..</p>
 	<!--Air Quality End-->
 	<!--Level Category Description-->
-	<pre><strong style="padding-left:15px">Level :</strong>&nbsp;Value associated with the category. These values range from 1 to 6, with 1 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong style="padding-left:15px">Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous</pre>        
+	<pre><strong style="padding-left:15px">Level :</strong>&nbsp;Value associated with the category. These values range from 0 to 6, with 0 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong style="padding-left:15px">Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous</pre>        
 	<!--Level Category Description-->
 	<!--Accuweather Logo-->
 	<p style="text-align: center;">Powered by:</strong></p>
