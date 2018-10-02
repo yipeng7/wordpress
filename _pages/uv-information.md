@@ -8,4 +8,49 @@ permalink: https://safeworkmel.com/uv-information/
 published: true
 post_date: 2018-09-07 22:10:43
 ---
-<p><!-- wp:paragraph --></p><h5>UV rays, coming from the sun, are one of the major causes of skin cancer. UV rays damage the DNA of genes responsible for moderating the cell growth. This damage results in skin cancer.</h5><h4><b> </b></h4><h4><b>UV will affect you most if you/your:</b></h4><ul><li>Work outside between <b>10am</b> to <b>4pm</b></li></ul><ul><li>Work during <b>spring</b> and <b>summer </b>seasons</li></ul><ul><li>work location is closer to the <b>equator</b></li></ul><ul><li>work location is at a <b>higher</b> altitude</li></ul><ul><li>work near <b>reflected surfaces</b> like water or glass</li></ul><h4><b>While working outdoor you must avoid:</b></h4><ul><li><b>Sun burn</b></li></ul><ul><li><b>Tanning </b>through sunlight exposure</li></ul><ul><li><b>Long hours</b> of consistent sun exposure</li></ul><ul><li>Thin and <b>non-reflective</b> clothing</li></ul><ul><li><b>Lack of protection</b> from the sun</li></ul><ul><li><b>Dehydration</b></li></ul><p><!-- /wp:paragraph --></p><p><!-- wp:separator --></p><hr /><p><!-- /wp:separator --></p><p><!-- wp:paragraph --></p><p><!-- /wp:paragraph --></p><p><!-- wp:heading {"level":4} --></p><h5> </h5><h5> </h5><h5>For more information, you can visit:</h5><p><!-- /wp:heading --></p><p><!-- wp:paragraph --></p><p><a href="https://www.cancer.org/cancer/cancer-causes/radiation-exposure/uv-radiation.html">American Cancer Society</a><br /><a href="https://www.cancer.org.au/preventing-cancer/workplace-cancer/uv-radiation.html">Cancer Council Australia</a></p><p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<h5 style="text-align: center;">UV rays, coming from the sun, are one of the major causes of skin cancer. UV rays damage the DNA of genes responsible for moderating the cell growth. This damage results in skin cancer.</h5>
+<h4><strong>&nbsp;</strong></h4>
+<h4><strong>UV will affect you most if you/your:</strong></h4>
+<ul>
+<li>Work outside between 10am to 4pm</li>
+</ul>
+<ul>
+<li>Work during spring and summer seasons</li>
+</ul>
+<ul>
+<li>Work location is closer to the equator</li>
+</ul>
+<ul>
+<li>Work location is at a higher altitude</li>
+</ul>
+<ul>
+<li>Work near reflected surfaces like water or glass</li>
+</ul>
+<h4><strong>While working outdoor you must avoid:</strong></h4>
+<ul>
+<li>Sun burn</li>
+</ul>
+<ul>
+<li>Tanning through sunlight exposure</li>
+</ul>
+<ul>
+<li>Long hours of consistent sun exposure</li>
+</ul>
+<ul>
+<li>Thin and non-reflective clothing</li>
+</ul>
+<ul>
+<li>Lack of protection from the sun</li>
+</ul>
+<ul>
+<li>Dehydration</li>
+</ul>
+<p>&nbsp;</p>
+<p><!-- wp:separator --></p>
+<hr />
+<p><!-- /wp:separator --><!-- wp:paragraph --><!-- /wp:paragraph --><!-- wp:heading {"level":4} --></p>
+<h5>For more information, you can visit:</h5>
+<p><!-- /wp:heading --><!-- wp:paragraph --></p>
+<p><a style="color: #000000;" href="https://www.cancer.org/cancer/cancer-causes/radiation-exposure/uv-radiation.html">American Cancer Society&nbsp; |&nbsp;</a> <a style="color: #000000;" href="https://www.cancer.org.au/preventing-cancer/workplace-cancer/uv-radiation.html">Cancer Council Australia</a></p>
+<p><!-- /wp:paragraph --></p>
