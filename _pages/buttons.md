@@ -11,7 +11,7 @@ post_date: 2018-10-02 09:23:23
 <p style="text-align: center;"><strong>Choose from one of the below accessibilties in Melbourne CBD</strong></p>		
             Public Toilets
             <p>
-                <a href="https://safeworkmel.com/public-toilets/"><img src="https://farm2.staticflickr.com/1914/44130915515_f192269983.jpg" style="text-align:center;height:250px"></a>
+                <a href="https://safeworkmel.com/public-toilets/"><img src="https://farm2.staticflickr.com/1977/44323095034_dd16fbf761_m.jpg" style="text-align:center;height:250px"></a>
             Water Fountains
             <p>
                 <a href="https://safeworkmel.com/drinking-fountains/"><img src="https://farm2.staticflickr.com/1927/43230782380_fd3f84a2a4_m.jpg" style="text-align:center;height:250px"></a>
