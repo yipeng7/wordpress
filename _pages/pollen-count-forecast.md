@@ -20,8 +20,7 @@ post_date: 2018-09-13 03:39:26
 	<style>
         .pollenLables{
             font-family:Tahoma;
-            font-size:30px;
-            font-weight:bolder;
+            font-size:25px;
             color:grey;
             text-align: center;
         }
@@ -72,7 +71,7 @@ post_date: 2018-09-13 03:39:26
 	<pre><strong style="padding-left:15px">Level :</strong>&nbsp;Value associated with the category. These values range from 0 to 6, with 0 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong style="padding-left:15px">Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous</pre>        
 	<!--Level Category Description-->
 	<!--Accuweather Logo-->
-	<p style="text-align: center;">Powered by:</strong></p>
+	<p style="text-align: center;">Powered by:</p>
 	<a href="https://developer.accuweather.com/"><img src="http://apidev.accuweather.com/developers/Media/Default/logo//awx-logo-orange.png" width="200" alt="logoaccu"></a>
 	<!--Accuweather Logo-->
 </body>
