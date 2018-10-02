@@ -26,7 +26,7 @@ post_date: 2018-09-13 03:39:26
         }
         .pollenFields{
             font-family:Tahoma;
-            color:navy;
+            color:royalblue;
             font-size:15px;
             font-weight:bold;
             color:black;
