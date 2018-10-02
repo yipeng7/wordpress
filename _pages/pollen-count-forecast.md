@@ -1,6 +1,6 @@
 ---
 ID: 657
-post_title: Pollen Count Forecast
+post_title: Pollen Forecast
 author: aashish
 post_excerpt: ""
 layout: page
