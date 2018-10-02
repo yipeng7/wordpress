@@ -63,8 +63,8 @@ post_date: 2018-09-13 03:39:26
 	<p>CategoryFetching..</p>
 	<!--Ragweed Pollen Column Start-->
 	<!--Air Quality Start-->
-	Overall Air Quality
-	<img src="https://mbtskoudsalg.com/images/air-clipart-transparent-background-wind-7.png" style="height:100px;" alt="air"/>
+	<img src="https://mbtskoudsalg.com/images/air-clipart-transparent-background-wind-7.png" style="height:100px;" alt="ragweed" />
+	<p>Overall Air Quality  </p>
 	<p>LevelFetching..</p>
 	<p>CategoryFetching..</p>
 	<!--Air Quality End-->
@@ -94,7 +94,7 @@ post_date: 2018-09-13 03:39:26
         {
             font-family: Tahoma;
             color:grey;
-            font-size:20.5px;
+            font-size:18px;
             text-align:justify;
         }
         </style>
@@ -102,23 +102,18 @@ post_date: 2018-09-13 03:39:26
                         <label>
                              &#x2705;Keep a face mask handy while working outdoors
                         </label>
-                        <br/>
                         <label>
                              &#x2705;Protect your Eyes. Wear wraparound sunglasses to stop pollen getting in your eyes
                         </label>
-                        <br/>
                         <label>
                              &#x2705;Take a shower and change your clothes after being outdoors to remove any traces of Pollens on your body
                         </label>
-                        <br/>
                         <label>
                              &#x2705;When Pollen Levels are 3, stay indoors if possible.
                         </label>
-                        <br/>
                         <label>
                              &#x2705;Don't smoke or let other people smoke in your house. 
                         </label>
-                        <br/>
                         <label>
                              &#x2705;Avoid drying clothes outside, again to prevent Pollens to getting attached to the clothing
                         </label>         
