@@ -8,15 +8,13 @@ permalink: https://safeworkmel.com/buttons/
 published: true
 post_date: 2018-10-02 09:23:23
 ---
-Public Toilets
+<p style="text-align: center;"><strong>Choose from one of the below accessibilties in Melbourne CBD</strong></p>		
+            Public Toilets
             <p>
-                <a href="~/Toilet.html"><img src="~/656515024-612x612.jpg" style="text-align:center;height:200px;width:200px"></a>
-            </p>
+                <a href="https://safeworkmel.com/public-toilets/"><img src="https://farm2.staticflickr.com/1914/44130915515_f192269983.jpg" style="text-align:center;height:250px"></a>
             Water Fountains
             <p>
-                <a href="~/Drink.html"><img src="~/school-water-fountain-clipart-1.jpg" style="text-align:center;height:200px;width:200px"></a>
-            </p>
-            Restaraunts
+                <a href="https://safeworkmel.com/drinking-fountains/"><img src="https://farm2.staticflickr.com/1927/43230782380_fd3f84a2a4_m.jpg" style="text-align:center;height:250px"></a>
+            Restaurants
             <p>
-                <a href="@Url.Action("NearbyRestv2","Home","")"><img src="~/download (1).png" style="text-align:center;height:200px;width:200px"></a>
-            </p>
+                <a href="https://safeworkmel.com/restaurants/"><img src="https://farm2.staticflickr.com/1924/44994064202_fb98f7bc1f_m.jpg" style="text-align:center;height:250px"></a>
