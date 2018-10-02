@@ -10,7 +10,7 @@ published: true
 post_date: 2018-09-17 17:39:34
 ---
 <!-- wp:fl-builder/layout -->
-	<p>[wpdatachart id=4]</p>
+<p>[wpdatachart id=4]</p>
 	<p>[wpdatachart id=5]</p>
 	<p>[wpdatachart id=6]</p>
 	<table width="1222">
