@@ -37,7 +37,7 @@ post_date: 2018-09-13 03:39:26
             font-size:15px;
          }
     </style>
-	<p style="text-align:center;font-size:30px;font-family:Tahoma;color:black;font-weight:bolder">Current Pollen conditions in Melbourne</p>
+	<p style="text-align:center;font-size:30px;font-family:Tahoma;color:grey;font-weight:bolder">Current Pollen conditions in Melbourne</p>
 	<!--Tree Pollen Column Start-->
 	<img src="https://i.pinimg.com/originals/0d/fd/8f/0dfd8f4fb49167f674907aa8c97ba34c.png" style="height:100px" alt="tree" />
 	<p> Tree</p>
@@ -76,4 +76,52 @@ post_date: 2018-09-13 03:39:26
 	<a href="https://developer.accuweather.com/"><img src="http://apidev.accuweather.com/developers/Media/Default/logo//awx-logo-orange.png" width="200" alt="logoaccu"></a>
 	<!--Accuweather Logo-->
 </body>
-</html>
+</html>		
+			<style>
+        .cont {
+            display: block;
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            font-size: 22px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        .checkListText
+        {
+            font-family: Tahoma;
+            color:grey;
+            font-size:20.5px;
+            text-align:justify;
+        }
+        </style>
+        <p style="text-align: center;">How to stay safe ?</p>
+                        <label>
+                             &#x2705;Keep a face mask handy while working outdoors
+                        </label>
+                        <br/>
+                        <label>
+                             &#x2705;Protect your Eyes. Wear wraparound sunglasses to stop pollen getting in your eyes
+                        </label>
+                        <br/>
+                        <label>
+                             &#x2705;Take a shower and change your clothes after being outdoors to remove any traces of Pollens on your body
+                        </label>
+                        <br/>
+                        <label>
+                             &#x2705;When Pollen Levels are 3, stay indoors if possible.
+                        </label>
+                        <br/>
+                        <label>
+                             &#x2705;Don't smoke or let other people smoke in your house. 
+                        </label>
+                        <br/>
+                        <label>
+                             &#x2705;Avoid drying clothes outside, again to prevent Pollens to getting attached to the clothing
+                        </label>         
+                        <label>
+                             &#x2705;Avoid cutting grass, playing or walking in grassy areas and camping – particularly in the early morning, evening and at night, when the pollen count is at its highest.
+                        </label>
