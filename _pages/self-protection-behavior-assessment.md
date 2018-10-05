@@ -11,4 +11,7 @@ post_date: 2018-10-01 20:40:17
 ---
 [streamquiz id="3"]
 [streamquiz id="4"]
-[streamquiz id="5"]
+[streamquiz id="5"]		
+			<a href="https://safeworkmel.com/self-protection-behavior-assessment/" role="button">
+						Restart
+					</a>
