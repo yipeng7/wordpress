@@ -13,3 +13,6 @@ post_date: 2018-10-01 20:40:17
 			<a href="https://safeworkmel.com/self-protection-behavior-assessment/" role="button">
 						Restart
 					</a>
+			<a href="https://safeworkmel.com/sun-health-awareness-quiz/" role="button">
+						Next
+					</a>
