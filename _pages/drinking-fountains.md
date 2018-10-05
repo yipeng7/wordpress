@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-09-16 18:37:44
 ---
-<p style="text-align: center;"><strong>Markers to all Water Fountains in Melbourne CBD</strong></p>[wpgmza id="3"]
+[wpgmza id="3"]
