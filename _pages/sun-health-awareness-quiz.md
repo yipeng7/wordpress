@@ -1,6 +1,6 @@
 ---
 ID: 1146
-post_title: Sun health awareness quiz
+post_title: Sun Exposure Awareness
 author: Yipeng Li
 post_excerpt: ""
 layout: page
