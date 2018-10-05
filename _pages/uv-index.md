@@ -185,7 +185,7 @@ post_date: 2018-09-11 15:40:58
                              &#x2705;Umbrella
                         </label>
                 <p style="border-left: 5px solid red;color:black;text-align: center;"><strong>It is highly recommended to completely avoid going under the Sub when the UV Index is Extreme. Seek shade whenever possible if staying outside. Keep all body parts covered at all times and stay hydrated.</strong></p>
-        <button onclick="newTip()">Cick here to get a fact on Skin Cancer</button>
+        <button id="b1" onclick="newTip()">Cick here to get a fact on Skin Cancer</button>
     &nbsp;
     &nbsp;
 </body>
