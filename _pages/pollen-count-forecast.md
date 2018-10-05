@@ -116,7 +116,7 @@ post_date: 2018-09-13 03:39:26
                              &#x2705;Avoid cutting grass, playing or walking in grassy areas and camping – particularly in the early morning, evening and at night, when the pollen count is at its highest.
                         </label> 
 			<p style="text-align: right;">Want to know more ? Click on the button</p>		
-			<a href="https://safeworkmel.com/pollen-information/" role="button">
+			<a href="https://safeworkmel.com/pollen-information/" target="_blank" role="button">
 						Pollen Allergy
 					</a>
 	<!--Accuweather Logo-->
