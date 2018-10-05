@@ -70,10 +70,6 @@ post_date: 2018-09-13 03:39:26
 	<!--Level Category Description-->
 	<pre><strong style="padding-left:15px">Level :</strong>&nbsp;Value associated with the category. These values range from 0 to 6, with 0 implying good conditions and 6 implying hazardous conditions.<br /><br /><strong style="padding-left:15px">Category :</strong>&nbsp;Category of the pollution. Low, High, Good, Moderate, Unhealthy, Hazardous</pre>        
 	<!--Level Category Description-->
-	<!--Accuweather Logo-->
-	<p style="text-align: center;">Powered by:</p>
-	<a href="https://developer.accuweather.com/"><img src="http://apidev.accuweather.com/developers/Media/Default/logo//awx-logo-orange.png" width="200" alt="logoaccu"></a>
-	<!--Accuweather Logo-->
 </body>
 </html>		
 			<style>
@@ -118,4 +114,12 @@ post_date: 2018-09-13 03:39:26
                         </label>         
                         <label>
                              &#x2705;Avoid cutting grass, playing or walking in grassy areas and camping – particularly in the early morning, evening and at night, when the pollen count is at its highest.
-                        </label>
+                        </label> 
+			<p style="text-align: right;">Want to know more ? Click on the button</p>		
+			<a href="https://safeworkmel.com/pollen-information/" role="button">
+						Pollen Allergy
+					</a>
+	<!--Accuweather Logo-->
+	<p style="text-align: center;">Powered by:</p>
+	<a href="https://developer.accuweather.com/"><img src="http://apidev.accuweather.com/developers/Media/Default/logo//awx-logo-orange.png" width="200" alt="logoaccu"></a>
+	<!--Accuweather Logo-->
