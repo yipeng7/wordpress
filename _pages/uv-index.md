@@ -191,7 +191,7 @@ post_date: 2018-09-11 15:40:58
 </body>
 </html>		
 			<p>Want to know more ? Click on the buttons</p>		
-			<a href="#" role="button">
+			<a href="https://safeworkmel.com/uv-information/" role="button">
 						Ultraviolet Rays
 					</a>
 			<a href="https://safeworkmel.com/skin-cancer-infomation/" role="button">
