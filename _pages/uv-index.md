@@ -186,12 +186,15 @@ post_date: 2018-09-11 15:40:58
                         </label>
                 <p style="border-left: 5px solid red;color:black;text-align: center;"><strong>It is highly recommended to completely avoid going under the Sub when the UV Index is Extreme. Seek shade whenever possible if staying outside. Keep all body parts covered at all times and stay hydrated.</strong></p>
         <button onclick="newTip()">Cick here to get a fact on Skin Cancer</button>
-    &nbsp;
-    &nbsp;
-        <p style="font-family:Arial;font-size:15px">Powered By:</p>
-        <p>
-            <a href="https://openweathermap.org/api"><img src="https://farm2.staticflickr.com/1943/43156966290_e4b107251b.jpg" width="150"></a>
-        </p>
-        <p style="position:relative;top:-30px"><a href="https://darksky.net/dev"><img src="https://www.vectorlogo.zone/logos/darksky/darksky-card.png" width="100"></a></p>
 </body>
-</html>
+</html>		
+			<p>Want to know more ? Click on the buttons</p>		
+			<a href="#" role="button">
+						Ultraviolet Rays
+					</a>
+			<a href="https://safeworkmel.com/skin-cancer-infomation/" role="button">
+						Skin Cancer
+					</a>
+			<a href="https://safeworkmel.com/skin-cancer-stats/" role="button">
+						Skin Cancer Death Rates
+					</a>
