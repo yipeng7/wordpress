@@ -38,7 +38,7 @@ post_date: 2018-09-13 12:31:15
 <!--https://code.jquery.com/jquery-3.3.1.js
     https://code.jquery.com/jquery-3.3.1.min.js -->
 <title>Near Restaurant</title>
-     	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400"><!-- Google web font "Open Sans" -->
+     	 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400"><!-- Google web font "Open Sans" -->
 <p id="demo"></p>
                         <input type="text" id="localtion" name="localtion" placeholder="Search Locations..." required="">
 <button type="submit" onclick="codeAddress()">Search</button>
